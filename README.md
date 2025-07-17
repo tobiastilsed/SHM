@@ -5,8 +5,11 @@ This work was completed in pursuit of an MSc in Advanced Mechanical Engineering 
 Some key things to note - my configuration was:
 
   IDE:         spyder 5.4.1
+  
   numpy:       1.26.4
+  
   scipy:       1.11.4
+  
   matplotlib:  3.9.2
 
 I used Anaconda Navigator - which was downloaded to my machine - to access spyder.
