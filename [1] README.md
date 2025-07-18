@@ -14,7 +14,7 @@ Some key things to note - my configuration was:
 
 I used Anaconda Navigator - which was downloaded to my machine - to access spyder.
 
-There are four .zip files in the main branch that will need to be downloaded;
+There are four .zip files - files [2] through [5] - in the main branch that will need to be downloaded;
 all of the files will need to be placed into a single folder for the modularity
 to function.
 
